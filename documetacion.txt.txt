@@ -1,0 +1,3 @@
+git init: comando para iniciar   los repositorios.
+
+git status: muestra los cambios del directorio: en color rojo muestra los nuevos y en color verde los que ya estaban
